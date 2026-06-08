@@ -37,8 +37,8 @@ This profect is lkjlkjkljl\
 [![FLipkart](/assets/img/buttons/flipkart.png)](https://www.flipkart.com/){:target="_blank"}
 
 
-[<img alt="alt_text" width="40px" src="assets/Ted.PNG" />](https://www.google.com/)
-
+![<img alt="alt_text" width="40px" src="assets/Ted.PNG" />](https://www.google.com/)
+![histogram-example](assets/histogram-example.png)(https://www.google.com/)
 
 https://www.bbc.co.uk/
 
