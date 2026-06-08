@@ -2,7 +2,7 @@
 ## Work Experience
 BPP lecturer in Data Analytics
 
-## Eductaion
+## Education
 - Dundee
 - Newcastle
 - Sheffield
