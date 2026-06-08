@@ -33,7 +33,7 @@ This profect is lkjlkjkljl\
 ![histogram-example](assets/histogram-example.png)\
 
 
-[![Alt text](https://someimage.svg)](https://destination)
+[![Alt text](assets/Ted.png)](https://destination)
 
 
 [Alt text](https://www.bbc.co.uk/){:target="assets/histogram-example.png"}
