@@ -49,7 +49,7 @@ This profect is lkjlkjkljl\
 ## Features <a id='ss'></a>
 
 [Education](#Education)\
-[Projects](#Project)\
+[Projects](#Projects)\
 [BBC link](https://www.bbc.co.uk/news)\
 [link to test portfolio]( https://lizp-ds.github.io/TestPortfolio/)
 
