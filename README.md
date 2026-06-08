@@ -32,8 +32,15 @@ This profect is lkjlkjkljl\
 ![histogram-example](assets/histogram-example.png)\
 [Alt text](https://www.bbc.co.uk/){:target="assets/histogram-example.png"}
 
-![histogram-examplhjkhjkh](/assets/histogram-example.png)]([https://www.flipkart.com/](https://www.bbc.co.uk/)){:target="_blank"}
+![histogram-examplhjkhjkh](/assets/histogram-example.png)]([(https://www.bbc.co.uk/)){:target="_blank"}
 
+[![FLipkart](/assets/img/buttons/flipkart.png)](https://www.flipkart.com/){:target="_blank"}
+
+
+[<img alt="alt_text" width="40px" src="assets/Ted.PNG" />](https://www.google.com/)
+
+
+https://www.bbc.co.uk/
 
  \
    \
