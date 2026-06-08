@@ -32,6 +32,6 @@ This profect is lkjlkjkljl\
 ![histogram-example](assets/histogram-example.png)
 
 
-## Features <a id='ssFeatures'></a>
+## Features <a id='ss'></a>
 
 [Section `Features`](#Education)
