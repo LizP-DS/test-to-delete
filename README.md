@@ -30,11 +30,12 @@ BPP lecturer in Data Analytics
 ## Projects
 This profect is lkjlkjkljl\
 ![histogram-example](assets/histogram-example.png)
-
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 
 ## Features <a id='ss'></a>
 
-[Education](Education)\
+[Education](#Education)\
+[Projects](#Project)\
 [BBC link](https://www.bbc.co.uk/news)\
 [link to test portfolio]( https://lizp-ds.github.io/TestPortfolio/)
 
