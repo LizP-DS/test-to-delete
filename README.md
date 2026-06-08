@@ -9,6 +9,6 @@ BPP lecturer in Data Analytics
 - Wolverhampton
 
 ## Projects
-This profect is lkjlkjkljl
+This profect is lkjlkjkljl\
 ![histogram-example](assets/histogram-example.png)
 
