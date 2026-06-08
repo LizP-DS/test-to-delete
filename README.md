@@ -29,7 +29,9 @@ BPP lecturer in Data Analytics
 - Wolverhampton
 ## Projects
 This profect is lkjlkjkljl\
-![histogram-example](assets/histogram-example.png)
+![histogram-example](assets/histogram-example.png)\
+[Alt text](https://www.bbc.co.uk/){:target="assets/histogram-example.png"}
+
  \
    \
    \
