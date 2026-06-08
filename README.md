@@ -3,10 +3,10 @@
 BPP lecturer in Data Analytics
 
 ## Eductaion
-Dundee
-Newcastle
-Sheffield
-Wolverhampton
+- Dundee
+- Newcastle
+- Sheffield
+- Wolverhampton
 
 ## Projects
 
