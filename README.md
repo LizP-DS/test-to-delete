@@ -12,3 +12,7 @@ BPP lecturer in Data Analytics
 This profect is lkjlkjkljl\
 ![histogram-example](assets/histogram-example.png)
 
+
+## Features <a id='ssFeatures'></a>
+
+[Section `Features`](#Education)
