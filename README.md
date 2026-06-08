@@ -35,5 +35,5 @@ This profect is lkjlkjkljl\
 ## Features <a id='ss'></a>
 
 [Education](#Education)\
-[BBC link](www.bb.co.uk)
+[BBC link](https://www.bbc.co.uk/news)
 
