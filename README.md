@@ -30,7 +30,10 @@ BPP lecturer in Data Analytics
 ## Projects
 This profect is lkjlkjkljl\
 ![histogram-example](assets/histogram-example.png)
-\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+ \
+  \
+  \
+   \
 
 ## Features <a id='ss'></a>
 
