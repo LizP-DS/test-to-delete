@@ -25,7 +25,7 @@ Can   \
 Go     \ 
 Here \
 
-## Features <a id='ss'></a>
+## Extra links
 
 [Education](#Education)\
 [Projects](#Projects)\
