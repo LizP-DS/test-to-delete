@@ -7,28 +7,9 @@ BPP lecturer in Data Analytics
 - Newcastle
 - Sheffield
 - Wolverhampton
-- Dundee
-- Newcastle
-- Sheffield
-- Wolverhampton
-- - Dundee
-- Newcastle
-- Sheffield
-- Wolverhampton
-- - Dundee
-- Newcastle
-- Sheffield
-- Wolverhampton
-- - Dundee
-- Newcastle
-- Sheffield
-- Wolverhampton
-- - Dundee
-- Newcastle
-- Sheffield
-- Wolverhampton
+
 ## Projects
-This profect is lkjlkjkljl\
+This profect is xxxxxxxx
 
 ![histogram-example](assets/histogram-example.png)\
 
@@ -38,22 +19,12 @@ This profect is lkjlkjkljl\
 
 
 
- \
-   \
-   \
-    \ 
- \
-   \
-   \
-    \ 
-     \
-   \
-   \
-    \ 
-     \
-   \
-   \
-    \ 
+Extra \
+Text   \
+Can   \
+Go     \ 
+Here \
+
 ## Features <a id='ss'></a>
 
 [Education](#Education)\
